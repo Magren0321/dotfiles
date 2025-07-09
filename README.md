@@ -17,3 +17,5 @@ git clone https://github.com/Magren0321/dotfiles --depth=1 ~/.dotfiles
 ```
 
 After, you will get normal config. (Eg. Tmux, zsh, git ...)
+
+These config are modified from [Innei's dotfiles](https://github.com/Innei/dotfiles).
